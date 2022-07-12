@@ -73,10 +73,10 @@ global.packname = "KENJIBot Stickers" //ur sticker watermark packname
 global.author = "Ryukei" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/ryukei.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/ryukei.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/errorpictryukei.png") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/ryukei.jpg") //ur thumb pic
 
 //damtabase
 global.premium = ['085226228791'] //ur premium numbers
@@ -122,7 +122,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 20,
     monayawal: 1000
 }
    global.rpg = {
